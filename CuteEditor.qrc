@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>images/action_exit.png</file>
+    <file>images/action_info.png</file>
+    <file>images/action_save_as.png</file>
+    <file>images/action_redo.png</file>
+    <file>images/action_undo.png</file>
+    <file>images/action_copy.png</file>
+    <file>images/action_cut.png</file>
+    <file>images/action_new.png</file>
+    <file>images/action_open.png</file>
+    <file>images/action_paste.png</file>
+    <file>images/action_save.png</file>
+  </qresource>
+</RCC>
